@@ -9,6 +9,7 @@
     (date "2021-05-28")
     (rev "6")
     (company "Triglav Modular")
+    (comment 1 "Power and Interconnect")
   )
 
   (lib_symbols
