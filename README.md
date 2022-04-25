@@ -18,5 +18,5 @@ Other notes:
 * Reverse polarity protection
 * Open source
 
-![front_panel](https://user-images.githubusercontent.com/3920717/165110925-3a4b16a3-c1ba-4209-b8f3-ab8f2d4c1552.png|width=100)
+<img src="https://user-images.githubusercontent.com/3920717/165110925-3a4b16a3-c1ba-4209-b8f3-ab8f2d4c1552.png" width="200">
 ![board](https://user-images.githubusercontent.com/3920717/165110461-3259a629-43a1-4888-9cee-da92e5d26d03.png)
