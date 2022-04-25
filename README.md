@@ -17,3 +17,7 @@ Other notes:
 * Panel + PCB sandwich, suitable for skiffs
 * Reverse polarity protection
 * Open source
+
+
+![front_panel](https://user-images.githubusercontent.com/3920717/165110107-21fccf0b-e7c5-4399-9e4b-1fb06eb2c045.jpg)
+![board](https://user-images.githubusercontent.com/3920717/165110461-3259a629-43a1-4888-9cee-da92e5d26d03.png)
