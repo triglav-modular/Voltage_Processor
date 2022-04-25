@@ -1,5 +1,5 @@
 # Triglav Modular Voltage Processor
-Eurorack Voltage Processor
+Eurorack Voltage Processor inspired by the Buchla 257.
 
 Features:
 
